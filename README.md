@@ -1,4 +1,4 @@
-**SQL Sales & Inventory Management Project**
+**Grocery Store Sales & Customer Analytics Management Project-SQL**
 📌 Overview
 
 This project is a SQL-based Sales and Inventory Management System designed to analyze business performance using structured queries. It models suppliers, categories, products, customers, employees, orders, and order details, then performs Business Intelligence (BI) style analysis through SQL queries.
@@ -105,11 +105,17 @@ Implement stored procedures for automated reports
 
 🛠️ Tech Stack
 
-Database: MySQL / MariaDB
+Database: MySQL
 
 Language: SQL
 
-Tools: MySQL Workbench, CLI, or any SQL client
+Tools: 
+
+MySQL Workbench, CLI, or any SQL client
+
 Each order is linked to a customer & employee.
 
 Each order_detail links products with orders.
+
+**This project builds a complete sales and inventory database with powerful SQL queries for analysis
+It highlights customer trends, product performance, supplier roles, and employee efficiency for better decision-making.**
